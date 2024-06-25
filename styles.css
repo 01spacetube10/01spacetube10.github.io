@@ -9,3 +9,10 @@ p {
   color: white;
   font-family: arial;
 }
+a {
+  color: purple;
+  font-family: arial;
+}
+a:hover {
+  color: lightred;
+}
